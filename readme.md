@@ -2,7 +2,7 @@
 
 - :books: École 42 - Paris - Software Engenieer - Sep 2017
 
-- 🦄 UX-UI Designer & FrontEnd Developer
+- 🦄 UX-UI Designer - Stone co - Brazil
 
 - :surfer: Surfist :sailboat: Sailor :headphones: musician
 
